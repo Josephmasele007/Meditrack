@@ -44,5 +44,6 @@ MediTrack is a secure pharmacy inventory and prescription tracking app with AI-d
 - Android Studio / VS Code with Flutter extensions
 
 ### Steps
-## 1. Clone the Repository:
--git clone https://github.com/Josephmasele007/MediTrack.git
+1. Clone the Repository:
+-git clone https://github.com/Josephmasele007/MediTrack.git then,
+cd MediTrack
